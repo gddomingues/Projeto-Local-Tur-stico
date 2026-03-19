@@ -1,12 +1,13 @@
 
 :root{
     font-family: "Open Sans", sans-serif;
-    
 }
 body{
+    margin: 88px 80px;
     background-color: #F5F4F0;;
 }
 
+/*
 #headline {
     text-transform: uppercase;
     color: #E1624F;
@@ -43,4 +44,4 @@ h3{
 
 ul { 
     list-style-type: none;
-}
+}*/
